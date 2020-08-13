@@ -1,0 +1,14 @@
+{
+  "name": "graphql-api-crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.16.1",
+    "graphql": "^15.3.0",
+    "mongoose": "^5.9.28"
+  }
+}
